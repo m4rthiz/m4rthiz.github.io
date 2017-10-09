@@ -142,7 +142,7 @@ background-color: rgba(145, 145, 145, 0)
     font-size: 3em;
     font-weight: 700;
     padding-top: 5%;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     text-align: center;
     color: #fff;
 }
@@ -172,9 +172,9 @@ p {
     color: #fff;
 }
 
-.p-section3 {
-    padding: 5%;
-}
+.p-section-3 {
+    color: #fff;
+   }
 
 .article {
     margin-bottom: 15px;
@@ -188,10 +188,11 @@ p {
     box-shadow: 16px 16px 5px #004062;
 }
 
-h2 {
+.article h2 {
     font-family: 'Poiret One', cursive;
-    font-size: 1.8em;
+    font-size: 1.7em;
 }
+
 
 .btn {
     margin-bottom: 1.25em;
